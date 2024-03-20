@@ -29,8 +29,14 @@ The Event Booking Management System is a C++ project designed to simplify event 
    ./event_booking
 ## Uses
 
-- 1. Display available events
-- 2. Book tickets
-- 3. Display ticket details
-- 4. Generate billing receipt
-- 5. Exit
+1. Display available events
+2. Book tickets
+3. Display ticket details
+4. Generate billing receipt
+5. Exit
+
+## Contributing
+We welcome contributions from the community to improve the Event Booking Management System project.
+
+## License
+This project is licensed under the MIT License.
